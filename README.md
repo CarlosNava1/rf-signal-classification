@@ -24,7 +24,7 @@ intelligence systems.
 
 
 
-\## 📡 Problem Overview
+\##  Problem Overview
 
 
 
@@ -52,7 +52,7 @@ models.
 
 
 
-\## 🧠 Methodology
+\##  Methodology
 
 
 
@@ -102,7 +102,7 @@ models.
 
 
 
-\## 📊 Results
+\##  Results
 
 
 
@@ -124,7 +124,7 @@ are intrinsically difficult to separate using time–frequency features alone.
 
 
 
-\## 📁 Project Structure
+\##  Project Structure
 
 
 
@@ -174,7 +174,7 @@ rf-signal-classification/
 
 
 
-\## ▶️ How to Run
+\## How to Run
 
 
 
@@ -228,7 +228,7 @@ Deep Learning (CNNs)
 
 
 
-🎓 Author
+ Author
 
 Carlos Navarro
 
